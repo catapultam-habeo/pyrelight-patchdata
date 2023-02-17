@@ -83,3 +83,4 @@
 3,0,TFFFC,rem_chr,Loading Characters
 3,0,TFFFC,gbl_chr,Loading Characters
 3,0,TFFFC,muh_chr,Loading Characters
+3,0,TFFFC,pbr_chr,Loading Characters
