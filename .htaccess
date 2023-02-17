@@ -1,3 +1,1 @@
-<files .git>
-    deny from all
-</files>
+IndexIgnore .git
