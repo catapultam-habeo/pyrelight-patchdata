@@ -87,3 +87,5 @@
 3,0,TFFFC,gtd_chr,Loading Characters
 3,0,TFFFC,fud_chr,Loading Characters
 3,0,TFFFC,ponightmare_chr,Loading Characters
+3,0,TFFFC,eru.eqg,Loading Characters
+3,0,TFFFC,hnm.eqg,Loading Characters
