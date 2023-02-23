@@ -24,3 +24,4 @@ toxxulia.eqg
 toxxulia_chr.txt
 toxxulia_assets.txt
 toxxulia_EnvironmentalEmitters.txt
+fieldofbone_environmentemitters.txt
