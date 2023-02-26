@@ -91,3 +91,5 @@
 3,0,TFFFC,hnm.eqg,Loading Characters
 3,0,TFFFC,xhm.eqg,Loading Characters
 3,0,TFFFC,tgl_chr,Loading Characters
+3,0,TFFFC,vac_chr,Loading Characters
+
