@@ -93,4 +93,4 @@
 3,0,TFFFC,tgl_chr,Loading Characters
 3,0,TFFFC,vac_chr,Loading Characters
 3,0,TFFFC,pofire_chr,Loading Characters
-
+3,0,TFFFC,gcb.eqg,Loading Characters
